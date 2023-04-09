@@ -1,5 +1,6 @@
 package hello.proxy.app.v1;
 
+import lombok.Value;
 import org.springframework.web.bind.annotation.*;
 
 @RequestMapping //스프링 @Controller 혹은 @RequestMapping 이 있어야 스프링 컨트롤러로 인식
